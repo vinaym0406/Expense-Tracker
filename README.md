@@ -1,6 +1,5 @@
 # Expense-Tracker
 
-
 ## Prerequisites
 
 - python - version 3.12 minimum
@@ -9,12 +8,14 @@
 ## Running the app
 
 ### Clone the repo
+
 ```git
 git clone "https://github.com/vinaym0406/Expense-Tracker.git"
 cd Expense-Tracker
 ```
 
 ### Create the virtual environment
+
 ```bash
 python -m venv .venv
 ```
@@ -29,6 +30,12 @@ python -m venv .venv
 - For Linux
 ```
 source .venv/bin/activate
+```
+
+### Install the pip packages
+
+```bash
+pip install -r requirements.txt
 ```
 
 ### Run the server
