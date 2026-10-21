@@ -46,7 +46,7 @@ python app.py
 
 ## Viewing application
 - open your favourite web browser
-- in search bar visit 'localhost:5000'
+- in search bar visit `localhost:5000`
 That's all, you see the application running
 
 ### Deactivate the server
